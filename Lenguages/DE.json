@@ -8,7 +8,7 @@
         "ButtonReload": "Server aktualisieren",
         "ToolTipReload": "Aktualisieren Sie die Statusserver",
         "ToolTipMTU": "Leiten Sie auf eine Werkzeug um, um Ihre ideale mtu zu erhalten",
-        "ToolTipMTUValue": "Für die Verbindung zu verwendende MTU,\ wenn Sie Ihr ideales MTU verwenden, können Sie die Verzögerung reduzieren.",
+        "ToolTipMTUValue": "Für die Verbindung zu verwendende MTU,\n wenn Sie Ihr ideales MTU verwenden, können Sie die Verzögerung reduzieren.",
         "ShowConsole": "Konsole anzeigen",
         "ShowConsoleToolTip": "Zeigt die Informationen der LAN-Play-Konsole an",
         "Credits": "Zeigt die Informationen der LAN-Play-Konsole an.",
